@@ -1,3 +1,7 @@
+# Jonathan Sonnek
+# November 13 2025
+# Favorite Saying
+
 import tkinter
 class Favorite_SayingGUI():
     def __init__(self):

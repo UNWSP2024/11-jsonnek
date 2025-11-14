@@ -1,3 +1,6 @@
+# Jonathan Sonnek
+# November 13 2025
+# Personal information
 import tkinter
 
 class PersonalInformationGUI:
